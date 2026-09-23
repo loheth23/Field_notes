@@ -1,0 +1,6 @@
+node_modules/
+# User data — do not commit accounts, passwords/hashes, notes, or images.
+data/users.json
+data/users/
+.env
+.DS_Store
